@@ -14,7 +14,7 @@ public class Cat {
 
     }
 
-    public void Cat(Cat cat){
+    public void groups(Cat cat){
         cats.add(cat);
     }
 
